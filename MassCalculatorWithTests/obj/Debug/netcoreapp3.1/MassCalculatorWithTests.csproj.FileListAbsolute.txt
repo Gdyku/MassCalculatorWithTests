@@ -1,0 +1,17 @@
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\MassCalculatorWithTests.exe
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\MassCalculatorWithTests.deps.json
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\MassCalculatorWithTests.runtimeconfig.json
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\MassCalculatorWithTests.runtimeconfig.dev.json
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\MassCalculatorWithTests.dll
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\MassCalculatorWithTests.pdb
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.csproj.AssemblyReference.cache
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.AssemblyInfoInputs.cache
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.AssemblyInfo.cs
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.csproj.CoreCompileInputs.cache
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.dll
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.pdb
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.genruntimeconfig.cache
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\UnitConverter.dll
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\bin\Debug\netcoreapp3.1\UnitConverter.pdb
+C:\Users\Gdyku\source\repos\MassCalculatorWithTests\MassCalculatorWithTests\obj\Debug\netcoreapp3.1\MassCalculatorWithTests.csproj.CopyComplete
